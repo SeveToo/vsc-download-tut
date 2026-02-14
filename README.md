@@ -1,24 +1,24 @@
 <div align="center" id="top"> 
   
 <h1 align="center">How to Download and Configure VSC?</h1>
-  <a target="_blank" href="https://sevetoo.github.io/vscDownloadTut/">
+  <a target="_blank" href="https://sevetoo.github.io/vsc-download-tut/">
   <img src="./preview.png" alt="One Div Element" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/vscDownloadTut/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/vsc-download-tut/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/vscDownloadTut?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/vsc-download-tut?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/vscDownloadTut?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/vsc-download-tut?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/vscDownloadTut?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/vsc-download-tut?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/vscDownloadTut?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/vsc-download-tut?color=56BEB8">
 </p>
 
 <p align="center">
@@ -52,12 +52,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/vscDownloadTut/
+https://sevetoo.github.io/vsc-download-tut/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/vscDownloadTut/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/vsc-download-tut/" >click link</a> )
 
 ## 😎 Made by
 
